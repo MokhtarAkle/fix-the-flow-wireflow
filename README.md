@@ -1,15 +1,17 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Wireflow hoofd interactie Coding the curbs map
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+
+De applicatie is gericht naar vervoerders van goederen, logistieke partijen en gemeentes
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+
+Als gebruiker wil ik gegevens kunnen opzoeken en filteren, zodat ik makkelijker achter informatie kom.
 
 ## Wireflow
+
 <!-- Toon de wireflow -->
 
  

@@ -12,9 +12,9 @@ Als gebruiker wil ik gegevens kunnen opzoeken en filteren, zodat ik makkelijker 
 
 ## Wireflow
 
-<!-- Toon de wireflow -->
+ ![20230111_1053920](https://user-images.githubusercontent.com/45001009/211777171-a2a2c88f-b43a-4c0d-a7f5-175cd41cb54f.jpg)
 
- 
+
 
 ## Licentie
 
